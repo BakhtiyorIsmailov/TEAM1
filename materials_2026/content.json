@@ -1,0 +1,584 @@
+{
+ "lang": "ru",
+ "sample_style": true,
+ "title": "Рекордная прибыль металлургии и новые торговые барьеры",
+ "lead": "ЦЭИР проанализирован доклад Маккинзи «Глобальная перспектива рынка материалов 2026» (октябрь 2026 г.), посвящённый состоянию мировой горно-металлургической отрасли, концентрации поставок сырья, торговым ограничениям, перспективам спроса и инвестиций до 2035 г.",
+ "source_note": {
+  "text": "Справочно: Маккинзи – международная консалтинговая компания, доклад подготовлен её практикой по энергетике и материалам на основе базы данных о более чем 11 тыс. действующих рудников и проектов в 130 странах.",
+  "source_type": "report",
+  "source_name": "Маккинзи, Global Materials Perspective 2026",
+  "locator": "с. 2, 66",
+  "original": "MineSpans aggregates more than 2.5 million data points across over 11,000 operating mines and projects in more than 130 countries."
+ },
+ "sections": [
+  {
+   "heading": "I. Состояние отрасли",
+   "items": [
+    {
+     "thesis": "1. Рекордная прибыль отрасли обеспечена ростом цен, а не производительностью.",
+     "evidence": [
+      {
+       "text": "По оценке Маккинзи, операционная рентабельность горно-металлургических компаний в 2025 г. достигла **27%** против 19% в 2015 г., а рыночная капитализация выросла на 230% до рекордных $3,7 трлн.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 3 (Key takeaways 1/5)",
+       "original": "The industry's EBITDA margins averaged 27 percent in 2025 (up from 19 percent in 2015), aggregate EBITDA totaled over $0.8 trillion, and market capitalization reached a record $3.7 trillion (an increase of approximately 230 percent from 2015 to 2025)."
+      },
+      {
+       "text": "При этом выручка выросла лишь на 1%, объёмы производства почти не изменились, производительность труда осталась прежней, а отдача от капитала снизилась.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 3",
+       "original": "Metals and mining revenues grew only about 1 percent in 2025, with volumes largely flat, labor productivity unchanged, and capital productivity declining."
+      },
+      {
+       "text": "Рост маржи связан со сдвигом в пользу дорогих металлов. Золото за год подорожало на 45%, медь на 9%, и в 2025 г. золото впервые обогнало сталь и энергетический уголь, обеспечив **28%** операционной прибыли отрасли против 18% годом ранее.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 3, 14",
+       "original": "gold (where prices increased 45 percent year on year) and copper (9 percent)... Gold overtook steel and thermal coal in the EBITDA pool for the first time ever in 2025 and accounted for 28 percent; gold share of EBITDA jumped from 18 percent to 28 percent in a single year."
+      },
+      {
+       "text": "Авторы доклада подчёркивают, что такая маржа носит циклический, а не структурный характер.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 7, 63",
+       "original": "Reinvestment gap; margins cyclical, not structural... When prices normalize, productivity may be the primary source of margin expansion."
+      }
+     ],
+     "support": [
+      {
+       "text": "Справочно: в 2025 г. экспорт золота из Узбекистана превысил $9,9 млрд., что на 32,3% выше уровня 2024 г., на золото пришлось 29,2% всего экспорта страны.",
+       "source_type": "external",
+       "source_name": "Spot.uz и Kun.uz по данным Нацкомстата, 22.01.2026",
+       "url": "https://kun.uz/en/news/2026/01/22/record-gold-sales-lift-uzbekistans-exports-in-2025",
+       "original": "Поставки металла достигли рекордных более $9,9 млрд, что на 32,3% выше прошлогоднего уровня... Доля золота составила больше 29,2% всего экспорта и 37,8% товарного экспорта. (дубль — https://www.spot.uz/ru/2026/01/22/export-gold/)"
+      }
+     ],
+     "figures": [
+      {
+       "chart": {
+        "type": "grouped_bar",
+        "title": "Структура операционной прибыли отрасли по видам сырья, %",
+        "labels": [
+         "Золото",
+         "Сталь",
+         "Энергетический уголь",
+         "Медь",
+         "Алюминий"
+        ],
+        "series": [
+         {
+          "name": "2024",
+          "values": [
+           18,
+           32,
+           22,
+           11,
+           5
+          ]
+         },
+         {
+          "name": "2025",
+          "values": [
+           28,
+           28,
+           15,
+           12,
+           5
+          ]
+         }
+        ],
+        "height_cm": 5.5
+       },
+       "source": "Маккинзи, «Глобальная перспектива рынка материалов 2026», с. 14"
+      }
+     ]
+    },
+    {
+     "thesis": "2. Ценность смещается к добыче, а переработка держится на попутной продукции.",
+     "evidence": [
+      {
+       "text": "Согласно докладу, доля добывающего звена в операционной прибыли медной цепочки выросла с 49% в 2015 г. до **88%** в 2025 г., в стальной цепочке с 30% до 65%.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 18",
+       "original": "Mining share of EBITDA pool, % — Steel value chain 30 (2015), 67 (2020), 65 (2025); Copper 49, 75, 88."
+      },
+      {
+       "text": "Это связано с избытком плавильных мощностей, поскольку ввод новых рудников отстаёт от строительства заводов, и дефицитный концентрат дорожает.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 18",
+       "original": "In copper, exploration and development of new mines have not kept pace with smelting capacity growth, leading to higher returns for mining operations controlling scarcer supply—and lower returns for processing operations."
+      },
+      {
+       "text": "В результате плата за переработку концентрата сократилась с 45% дохода медеплавильного завода в среднем за 2015–2024 гг. до 11% в 2025 г. и до нуля в первом полугодии 2026 г., а **65%** дохода теперь даёт серная кислота.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 19",
+       "original": "Smelter value generation per metric ton of concentrate, copper: TC/RC 45% (2015–24 average), 11% (2025), 0 (first half of 2026); sulfuric acid 26%, 40%, 65%."
+      },
+      {
+       "text": "Обратная сторона – удорожание серы после закрытия Ормузского пролива, с февраля по июнь 2026 г. её цена в Китае выросла с $612 до $1,5 тыс. за тонну. При цене $1 тыс. сера и серная кислота составляют до 39% операционных затрат при выщелачивании меди, 38% при добыче урана и 46% у никеля.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 33",
+       "original": "Sulfur price, China daily spot: 612 (Feb 2026) → 1,535 (Jun 2026). Share of operating cost attributed to sulfur at $1,000/t: copper leaching (SXEW) 39, nickel leaching (HPAL) 46, uranium ISL 38, uranium conventional 20."
+      }
+     ],
+     "support": [
+      {
+       "text": "Справочно: АГМК в рамках освоения месторождения «Ёшлик-1» и строительства нового медеплавильного завода планирует довести выпуск меди до 400 тыс. т в год к 2030 г.",
+       "source_type": "external",
+       "source_name": "Podrobno.uz (АГМК), The Moscow Times со ссылкой на Reuters",
+       "url": "https://podrobno.uz/cat/economic/budushchee-kombinata-kak-agmk-realizuet-krupnyy-investproekt-po-uvelicheniyu-dobychi-medi/",
+       "original": "в результате освоения рудника «Ёшлик-1» до 2030 года годовое производство меди достигнет 400 000 тонн; запуск МОФ-3 и начало строительства нового медеплавильного завода. Перекрёстная проверка — https://ru.themoscowtimes.com/2024/06/27/uzbekskiy-agmk-khochet-uvelichit-proizvodstvo-katodnoy-medi-bolee-chem-vdvoe-do-2030g-a135184"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "II. Концентрация поставок и торговые барьеры",
+   "items": [
+    {
+     "thesis": "3. Поставки сырья всё более сосредоточены, а торговля превращается в инструмент политики.",
+     "evidence": [
+      {
+       "text": "По данным доклада, по 15 крупнейшим видам сырья средняя доля трёх ведущих стран в добыче выросла с 66% в 2020 г. до 69% в 2025 г., в переработке с 71% до **74%**.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 25, 26",
+       "original": "Across the top 15 commodities, the top three countries' average share rose from 66 percent in 2020 to 69 percent in 2025... Refined: 2020 average 71, 2024 and 2025 average 74."
+      },
+      {
+       "text": "Китай лидирует в переработке всех ключевых металлов, кроме никеля, палладия и платины, а китайские компании обеспечили 34% новых мощностей 2021–2025 гг. и **52%** новых перерабатывающих заводов.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 26, 41",
+       "original": "China accounting for the largest share in all but nickel (Indonesia), palladium (Russia), and platinum (South Africa)... China accounts for 34% of new assets over 2021–25; 21% of new mining assets; and 52% of new refining assets."
+      },
+      {
+       "text": "Из 13 видов сырья с высокой концентрацией и высокой значимостью для промышленности девять уже находятся под экспортными барьерами стран-поставщиков.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 28",
+       "original": "Of the 13 commodities that have both high critical-mineral importance and high production concentration, nine now have trade barriers imposed by a top three supplying country."
+      }
+     ],
+     "support": [
+      {
+       "text": "Справочно: в апреле 2024 г. Узбекистан и ЕС подписали меморандум о стратегическом партнёрстве в сфере критического сырья, предусматривающий совместное финансирование проектов и развитие переработки.",
+       "source_type": "external",
+       "source_name": "Европейская служба внешних связей, Kun.uz",
+       "url": "https://www.eeas.europa.eu/delegations/uzbekistan/eu-establishes-strategic-partnership-uzbekistan-critical-raw-materials_en",
+       "original": "The EU and Uzbekistan signed a memorandum of understanding on April 5, 2024... building sustainable value chains, mobilising project funding, research and innovation. Cross-check — https://kun.uz/en/93519198"
+      },
+      {
+       "text": "Справочно: 9 октября 2026 г. Президент Узбекистана предложил ускорить создание центральноазиатского альянса по критически важным минералам и составить единую цифровую карту ресурсов региона.",
+       "source_type": "external",
+       "source_name": "gov.uz, УзА",
+       "url": "https://gov.uz/ru/kongeotexnazorat/news/view/230051",
+       "original": "Шавкат Мирзиёев предложил ускорить создание альянса по критически важным минералам в Центральной Азии... единую цифровую карту. Cross-check — https://uza.uz/posts/920289"
+      }
+     ],
+     "figures": [
+      {
+       "chart": {
+        "type": "barh",
+        "title": "Доля Китая в мировой переработке, 2025 г., %",
+        "labels": [
+         "Медь",
+         "Цинк",
+         "Сталь",
+         "Алюминий",
+         "Графит",
+         "Марганец",
+         "Литий",
+         "Кобальт",
+         "Редкоземельные металлы"
+        ],
+        "values": [
+         46,
+         49,
+         52,
+         60,
+         68,
+         69,
+         71,
+         87,
+         90
+        ],
+        "height_cm": 6.0
+       },
+       "source": "Маккинзи, «Глобальная перспектива рынка материалов 2026», с. 26"
+      }
+     ]
+    },
+    {
+     "thesis": "4. Пошлины разделили мировые цены, а ограничения распространились на лом.",
+     "evidence": [
+      {
+       "text": "Согласно докладу, после повышения пошлины США до 50% цена алюминия в стране к середине 2026 г. превысила $6,2 тыс. за тонну, что более чем на 60% выше китайской.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 4, 12",
+       "original": "US aluminum prices peaked more than 60 percent above those in China... pushed US prices past $6,200 per metric ton by mid-2026."
+      },
+      {
+       "text": "Стоимость металлов в американском электромобиле среднего класса выросла на 57%, в китайском на 29%, а разрыв в затратах увеличился с $500 до **$1,2–1,4 тыс.** на автомобиль.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 13",
+       "original": "materials costs for C-class BEVs and ICE vehicles rose by about 57 percent and 56 percent... Chinese manufacturers about 29 percent... the cost gap more than doubled, from about $500 per vehicle in 2025 to roughly $1,200 to $1,400 in 2026."
+      },
+      {
+       "text": "ЕС, США, Япония и Россия ограничивают вывоз лома как более дешёвого и менее углеродоёмкого сырья, а Китай, Турция и Индия ужесточают требования к качеству ввозимого лома.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 29",
+       "original": "The European Union, the United States, Japan, and Russia restrict outbound flows of scrap with duties, licenses, quotas, orders, and bans. China, Türkiye, and India... have introduced measures aimed at restricting imports to higher-quality grades."
+      }
+     ],
+     "support": [
+      {
+       "text": "Справочно: Узбекистан с 1 июля 2025 г. ввёл экспортную пошлину 100% на лом и отходы чёрных и цветных металлов для поддержки выпуска готовой продукции из местного сырья.",
+       "source_type": "external",
+       "source_name": "GMK Center со ссылкой на Kapital.uz, указ Президента о реформе экспорта, март 2025 г.",
+       "url": "https://gmk.center/news/uzbekistan-vvodit-poshlinu-na-eksport-loma-v-100/",
+       "original": "Максимальная ставка в 100% введена на экспорт лома и отходов черных и цветных металлов... Экспортные пошлины вводятся с 1 июля текущего года."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "III. Спрос, капитал и производительность",
+   "items": [
+    {
+     "thesis": "5. Центр спроса смещается из Китая в Индию и к центрам обработки данных.",
+     "evidence": [
+      {
+       "text": "По прогнозу Маккинзи, доля Китая в мировой выручке от металлов, достигнув пика в 48% в 2020 г., снизится с 42% в 2025 г. до 38% в 2035 г., тогда как доля Индии вырастет с 6% в 2020 г. до **12%**.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 40",
+       "original": "China's share... peaked at 48 percent in 2020... fallen to 42 percent in 2025... India's share has risen from 6 percent in 2020 to 10 percent in 2025 and is expected to reach 12 percent by 2035."
+      },
+      {
+       "text": "Мощность центров обработки данных вырастет с 84 ГВт в 2025 г. почти до 600 ГВт к 2040 г., и к 2030 г. на них придётся 6,2% мирового спроса на галлий и 4,3% на медь.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 38, 39",
+       "original": "from 84 gigawatts (GW) in 2025 to nearly 600 GW by 2040... about 6.2 percent of global gallium demand... copper (about 4.3 percent)."
+      },
+      {
+       "text": "На этом фоне медь к середине 2026 г. подорожала до $13,5 тыс. за тонну, а дефицит к 2035 г. сохранится по меди (около 10%), никелю (10–20%) и редкоземельным металлам (свыше 20%).",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 5, 11",
+       "original": "Copper prices... to over $13,500 per metric ton by mid-2026... deficits remain, notably for copper (about 10 percent), silver, rare earths (more than 20 percent), nickel (between 10 and 20 percent)."
+      }
+     ],
+     "figures": [
+      {
+       "chart": {
+        "type": "line",
+        "title": "Доля в мировой выручке от металлов, %",
+        "x": [
+         "2015",
+         "2020",
+         "2025",
+         "2030",
+         "2035"
+        ],
+        "series": [
+         {
+          "name": "Китай",
+          "values": [
+           39,
+           48,
+           42,
+           39,
+           38
+          ]
+         },
+         {
+          "name": "Индия",
+          "values": [
+           7,
+           6,
+           10,
+           11,
+           12
+          ]
+         }
+        ],
+        "height_cm": 5.0
+       },
+       "source": "Маккинзи, «Глобальная перспектива рынка материалов 2026», с. 40 (2030–2035 гг. – прогноз)"
+      }
+     ]
+    },
+    {
+     "thesis": "6. Для покрытия спроса нужны $4,2 трлн. инвестиций, но отдача от разведки и капитала падает.",
+     "evidence": [
+      {
+       "text": "По оценке доклада, до 2035 г. отрасли потребуется около **$4,2 трлн.** капиталовложений, или $215 млрд. в год, что примерно на 10% выше уровня 2025 г., когда инвестиции составили $194 млрд. и были на 45% ниже пика 2012 г.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 15, 46",
+       "original": "~$4.2 trillion capex... about $215 billion per year, roughly 10 percent above 2025... At $194 billion, 2025 investment remains about 45 percent below the 2012 peak in real terms."
+      },
+      {
+       "text": "Расходы на разведку золота и меди за 25 лет выросли в шесть раз, но крупных открытий в последнее десятилетие в среднем менее пяти в год, поскольку залежи глубже, а сроки согласований длиннее.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 49, 63",
+       "original": "Exploration spending on gold and copper has risen sixfold over the past 25 years, yet the number of major discoveries has fallen... <5 major copper or gold findings on average per year last decade."
+      },
+      {
+       "text": "Резерв роста производительности оценивается в $450–750 млрд. в год, или 15–25% выручки, а парк беспилотных карьерных самосвалов вырос с 769 в 2021 г. до 5,7 тыс. в 2026 г., более половины из них в Китае.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 6, 56, 57",
+       "original": "Annual productivity potential ranging from $450 billion to $750 billion... roughly 15 to 25 percent of industry revenues... AHS fleet 769 (2021) ... 5,684 (2026); China... more than 50 percent of all operating fleets."
+      }
+     ],
+     "support": [
+      {
+       "text": "Справочно: для стран СНГ, включая Центральную Азию, доклад прогнозирует снижение капиталовложений в добычу и переработку с $268 млрд. в 2014–2024 гг. до $236 млрд. в 2025–2035 гг.",
+       "source_type": "report",
+       "source_name": "Маккинзи, Global Materials Perspective 2026",
+       "locator": "с. 50",
+       "original": "Regional split of capex, Total: CIS 268 (2014–24), 236 (2025–35)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "recommendations": {
+  "heading": "IV. Предложения ЦЭИР для Узбекистана",
+  "bridge": "На основании вышеизложенного предлагается:",
+  "items": [
+   {
+    "headline": "1) Закладывать доход от попутной продукции в модель нового медеплавильного завода АГМК.",
+    "body": [
+     "Поскольку плата за переработку концентрата упала до нуля (вывод №2), устойчивость завода будет определяться продажей серной кислоты и попутных металлов, что требует заранее обеспечить её сбыт внутри страны."
+    ]
+   },
+   {
+    "headline": "2) Позиционировать Узбекистан как поставщика переработанного, а не только добытого сырья.",
+    "body": [
+     "Узким местом мировых поставок остаётся переработка (вывод №3), поэтому партнёрство с ЕС и региональный альянс по критическим минералам целесообразно использовать для привлечения проектов по переработке с финансированием из разных центров силы."
+    ]
+   },
+   {
+    "headline": "3) Дополнить пошлину на вывоз лома мощностями по его сортировке и переплавке.",
+    "body": [
+     "Удержанный внутри страны лом даёт эффект только при наличии переработки (вывод №4), иначе он остаётся невостребованным запасом."
+    ]
+   },
+   {
+    "headline": "4) Ускорить геологоразведку на основе цифровых данных и ИИ.",
+    "body": [
+     "При падающей отдаче традиционной разведки (вывод №6) единая цифровая база геологических данных и анализ архивных и спутниковых данных позволят снизить стоимость открытия месторождений и привлечь инвесторов."
+    ]
+   }
+  ]
+ },
+ "annexes": [
+  {
+   "title": "Структура дохода медеплавильного завода на тонну концентрата, %",
+   "chart": {
+    "type": "grouped_bar",
+    "labels": [
+     "2015–2024 в среднем",
+     "2025",
+     "I полугодие 2026"
+    ],
+    "series": [
+     {
+      "name": "Плата за переработку",
+      "values": [
+       45,
+       11,
+       0
+      ]
+     },
+     {
+      "name": "Серная кислота",
+      "values": [
+       26,
+       40,
+       65
+      ]
+     },
+     {
+      "name": "Прочая попутная продукция",
+      "values": [
+       16,
+       33,
+       23
+      ]
+     },
+     {
+      "name": "Металл сверх нормы",
+      "values": [
+       13,
+       17,
+       12
+      ]
+     }
+    ],
+    "height_cm": 7.0
+   },
+   "source": "Маккинзи, «Глобальная перспектива рынка материалов 2026», с. 19"
+  }
+ ],
+ "extended_proposals": {
+  "lead": "Полный перечень предложений ЦЭИР по итогам анализа доклада Маккинзи «Глобальная перспектива рынка материалов 2026» (октябрь 2026 г.).",
+  "items": [
+   {
+    "headline": "1. Модель доходов нового медеплавильного завода АГМК с опорой на попутную продукцию (вывод №2).",
+    "body": [
+     {
+      "text": "По данным доклада, плата за переработку медного концентрата сократилась с 45% дохода завода в 2015–2024 гг. до нуля в первом полугодии 2026 г., а 65% дохода дала серная кислота.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 19",
+      "original": "TC/RC 45% → 11% → 0; sulfuric acid 26% → 40% → 65%."
+     },
+     "Предлагается при финансовом моделировании завода в рамках проекта «Ёшлик-1» рассматривать серную кислоту и попутные металлы как основной источник дохода и заранее заключать долгосрочные договоры на сбыт кислоты с химическими и горнодобывающими предприятиями страны. Ожидаемый эффект – устойчивость завода при сохранении дефицита концентрата на мировом рынке."
+    ]
+   },
+   {
+    "headline": "2. Обеспечение внутренних потребителей серной кислотой (вывод №2).",
+    "body": [
+     {
+      "text": "Доклад показывает, что при цене серы $1 тыс. за тонну она составляет до 39% операционных затрат при выщелачивании меди и 38% при скважинной добыче урана.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 33",
+      "original": "Copper leaching (SXEW) 39; Uranium ISL 38."
+     },
+     "Предлагается провести инвентаризацию внутреннего баланса серы и серной кислоты с участием АГМК, НГМК и производителей удобрений и предусмотреть резерв кислоты для предприятий, использующих выщелачивание. Ожидаемый эффект – снижение уязвимости к внешним ценовым шокам наподобие закрытия Ормузского пролива."
+    ]
+   },
+   {
+    "headline": "3. Переработка, а не только добыча критического сырья (вывод №3).",
+    "body": [
+     {
+      "text": "Китай лидирует в переработке всех ключевых металлов, кроме никеля, палладия и платины, а 9 из 13 наиболее значимых видов сырья уже находятся под экспортными барьерами.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 26, 28",
+      "original": "China accounting for the largest share in all but nickel, palladium, platinum... nine now have trade barriers."
+     },
+     {
+      "text": "В апреле 2024 г. Узбекистан и ЕС подписали меморандум о стратегическом партнёрстве в сфере критического сырья.",
+      "source_type": "external",
+      "source_name": "Европейская служба внешних связей",
+      "url": "https://www.eeas.europa.eu/delegations/uzbekistan/eu-establishes-strategic-partnership-uzbekistan-critical-raw-materials_en",
+      "original": "EU establishes strategic partnership with Uzbekistan on critical raw materials (5 April 2024)."
+     },
+     "Предлагается подготовить пакет проектов по переработке молибдена, вольфрама и редких металлов для включения в перечень стратегических проектов ЕС за пределами союза, где их уже 13. Ожидаемый эффект – доступ к льготному финансированию и долгосрочным договорам сбыта."
+    ]
+   },
+   {
+    "headline": "4. Многовекторное финансирование минерально-сырьевых проектов (вывод №3, анализ соперничества).",
+    "body": [
+     "Доклад описывает гонку за цепочки поставок, где импортёры конкурируют за доступ к сырью через доли в проектах, стратегические запасы и двусторонние соглашения. Для Узбекистана это создаёт переговорную возможность получить финансирование и технологии одновременно от ЕС, США, Южной Кореи, стран Персидского залива и Китая, не привязываясь к одному блоку.",
+     "Предлагается закреплять за разными партнёрами разные звенья цепочки, а именно разведку, переработку и выпуск готовой продукции, сохраняя контроль государства над ключевыми месторождениями. Риск, который следует учитывать – несовместимость требований разных партнёров к происхождению сырья и экспортному контролю."
+    ]
+   },
+   {
+    "headline": "5. Мощности по сортировке и переплавке лома (вывод №4).",
+    "body": [
+     {
+      "text": "С 1 июля 2025 г. в Узбекистане действует экспортная пошлина 100% на лом чёрных и цветных металлов.",
+      "source_type": "external",
+      "source_name": "GMK Center со ссылкой на Kapital.uz",
+      "url": "https://gmk.center/news/uzbekistan-vvodit-poshlinu-na-eksport-loma-v-100/",
+      "original": "Максимальная ставка в 100% введена на экспорт лома и отходов черных и цветных металлов... с 1 июля."
+     },
+     "Предлагается дополнить пошлину программой создания региональных пунктов сортировки и электросталеплавильных и медеплавильных мощностей для переработки вторичного сырья. Ожидаемый эффект – более дешёвое и менее углеродоёмкое сырьё для национальной металлургии."
+    ]
+   },
+   {
+    "headline": "6. Осторожное отношение к доходам от золота (вывод №1).",
+    "body": [
+     {
+      "text": "В 2025 г. экспорт золота превысил $9,9 млрд., или 29,2% всего экспорта Узбекистана.",
+      "source_type": "external",
+      "source_name": "Kun.uz по данным Нацкомстата",
+      "url": "https://kun.uz/en/news/2026/01/22/record-gold-sales-lift-uzbekistans-exports-in-2025",
+      "original": "gold exports exceeded $9.9 billion, 32.3% higher; 29.2% of total exports."
+     },
+     "Доклад указывает на циклический характер текущей маржи. Предлагается при бюджетном и экспортном планировании закладывать консервативный прогноз цены золота, а сверхдоходы направлять на диверсификацию экспорта. Ожидаемый эффект – снижение зависимости платёжного баланса от одного товара."
+    ]
+   },
+   {
+    "headline": "7. Пилотное внедрение беспилотной техники и ИИ на рудниках НГМК и АГМК (вывод №6).",
+    "body": [
+     {
+      "text": "Парк беспилотных карьерных самосвалов в мире вырос с 769 в 2021 г. до 5,7 тыс. в 2026 г., а резерв роста производительности отрасли оценивается в $450–750 млрд. в год.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 56, 57",
+      "original": "AHS fleet 769 → 5,684; $450–750 billion."
+     },
+     "Предлагается запустить пилотные проекты по беспилотной перевозке руды и цифровому управлению обогащением с последующим тиражированием. Ожидаемый эффект – рост производительности при ограниченных новых капиталовложениях."
+    ]
+   },
+   {
+    "headline": "8. Цифровая база геологических данных и ИИ в разведке (вывод №6).",
+    "body": [
+     {
+      "text": "Расходы на разведку золота и меди выросли в шесть раз за 25 лет, но крупных открытий менее пяти в год, и доклад предлагает использовать ИИ для анализа исторических геологических данных и спутниковых снимков.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 49",
+      "original": "AI-enabled data integration and target generation using historical geological data and satellite imagery."
+     },
+     {
+      "text": "В октябре 2026 г. Президент Узбекистана предложил создать единую цифровую карту минеральных ресурсов Центральной Азии.",
+      "source_type": "external",
+      "source_name": "gov.uz",
+      "url": "https://gov.uz/ru/kongeotexnazorat/news/view/230051",
+      "original": "единая цифровая карта минерально-сырьевых ресурсов региона"
+     },
+     "Предлагается оцифровать архив геологических данных страны и открыть его инвесторам на единой платформе. Ожидаемый эффект – снижение стоимости поиска и рост притока частных инвестиций в разведку."
+    ]
+   },
+   {
+    "headline": "9. Подготовка кадров для горно-металлургической отрасли (вывод №6).",
+    "body": [
+     {
+      "text": "К 2035 г. отрасли понадобится дополнительно 310 тыс. работников, а в Индии потребность вырастет на 430 тыс. чел.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 47",
+      "original": "310,000 direct jobs; India +430,000."
+     },
+     "Предлагается совместно с АГМК и НГМК расширить подготовку горных инженеров, металлургов и операторов автоматизированной техники в профильных вузах и техникумах. Ожидаемый эффект – удержание кадров в стране при растущей конкуренции за специалистов в Азии."
+    ]
+   },
+   {
+    "headline": "10. Оценка углеродного следа экспортируемых металлов (новое направление).",
+    "body": [
+     {
+      "text": "Согласно докладу, механизм трансграничного углеродного регулирования ЕС вступил в окончательную фазу и применяет цену на углерод к импортируемой стали, алюминию и другим материалам.",
+      "source_type": "report",
+      "source_name": "Маккинзи, Global Materials Perspective 2026",
+      "locator": "с. 59",
+      "original": "CBAM entered its definitive regime and is now applying a carbon price to imported steel, aluminum, and other materials."
+     },
+     "Предлагается обязать экспортёров металлов в ЕС вести учёт выбросов по каждой партии продукции. Ожидаемый эффект – сохранение доступа на европейский рынок без дополнительных платежей."
+    ]
+   }
+  ]
+ }
+}
